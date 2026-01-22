@@ -388,10 +388,5 @@ This project is open-source and available under the **MIT License**. See the [LI
 
 <div align="center">
 
-**Developed with ❤️ for Smart India Hackathon 2024**
 
-*Last Updated: December 2025*
 
-[⬆ Back to Top](#smart-india-hackathon-sih---ai-powered-travel-platform)
-
-</div>
